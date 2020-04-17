@@ -1,2 +1,2 @@
 # quete_composer
-5.1 Quête Composer - Autoload
+5.2 Quête Composer
