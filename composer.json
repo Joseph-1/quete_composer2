@@ -1,0 +1,21 @@
+{
+    "name": "joseph/composer",
+    "description": "new test composer",
+    "authors": [
+        {
+            "name": "Joseph",
+            "email": "test@gmail.com"
+        }
+    ],
+    "autoload":
+    {
+        "psr-4":
+        {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
+
